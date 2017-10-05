@@ -1,0 +1,115 @@
+/* style.css */
+body{
+  background:rgb(230,230,230);
+  color: black;
+  font-size: 16px;
+  font-family: 'Acme', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+  font-family: 'Ropa Sans', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Ropa Sans', sans-serif;
+  color: #BED600;
+  font-weight: lighter;
+  font-size: 45px;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+#banner {
+  text-align: center;
+  background-image: url(Images/fond.jpg);
+  background-size: cover;
+  padding: 115px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  color: white
+}
+
+
+#banner p {
+  font-size: 20px;
+  color: white;
+}
+
+#banner a:hover {
+  font-size: 20px;
+  color: white;
+}
+
+
+.card {
+  text-align: center;
+  background-size: cover;
+  padding: 0px;
+  margin-bottom: 30px;
+
+}
+
+#fast {
+  background-color: rgb(230,230,230);
+}
+
+#simple {
+  background-color: rgb(230,230,230);
+}
+
+#awesome {
+  background-color: rgb(230,230,230);
+}
+
+#beautiful {
+  background-color: rgb(230,230,230);
+}
+
+a {
+  color: #D2D4D3;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+#footer {
+  padding: 20px;
+  color: white;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #b2b4b3;
+  text-align: center;
+}
+
+#footer a {
+  font-size: 30px;
+  padding: 5px;
+  color:#ffffff; 
+}
+
+#footer a:hover {
+  text-decoration: none;
+  color: #bed600;
+}
+
+
+#footer p {
+  font-size: 16px;
+  padding: 5px;
+  color: black; 
+  text-align: center;
+}
+
+#contact {
+  background: #ffffff;
+  margin-right : 0;
+  margin-left: 0;
+  padding: 30px;
+}
